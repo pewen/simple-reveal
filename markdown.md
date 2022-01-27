@@ -74,6 +74,3 @@ Content 3.2
 ![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
 
 
-## External 3.4 (Math)
-
-`\[ J(\theta_0,\theta_1) = \sum_{i=0} \]`
